@@ -1,6 +1,7 @@
 # Bugema Linux Code of Conduct
 
 ## Our Commitment
+# beff
 
 The Bugema Linux project is committed to providing a welcoming, respectful, professional, and collaborative environment for everyone who participates in the project.
 
