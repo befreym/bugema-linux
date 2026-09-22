@@ -1,7 +1,6 @@
 # Bugema Linux Code of Conduct
 
 ## Our Commitment
-# beff
 
 The Bugema Linux project is committed to providing a welcoming, respectful, professional, and collaborative environment for everyone who participates in the project.
 
@@ -151,6 +150,9 @@ This Code of Conduct may be reviewed and updated as the Bugema Linux community g
 
 Changes should follow the project's governance process.
 
+## 13. Respectful communication
+* Use polite and professional language.
+* Avoid insults, personal attacks or offenive comments.
 ---
 
 **Bugema Linux**
