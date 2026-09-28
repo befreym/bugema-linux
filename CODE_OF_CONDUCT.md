@@ -150,10 +150,6 @@ This Code of Conduct may be reviewed and updated as the Bugema Linux community g
 
 Changes should follow the project's governance process.
 
-## 13. Respectful communication
-* Use polite and professional language.
-* Avoid insults, personal attacks or offenive comments.
----
 
 **Bugema Linux**
 **Bugema Open Source Community (BOSC)**
